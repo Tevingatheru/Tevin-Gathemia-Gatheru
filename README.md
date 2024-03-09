@@ -1,6 +1,6 @@
 # E-Portfolio Project
 
-This e-portfolio project is a comprehensive showcase of my projects, style, skills, and experience. It is designed, developed, and maintained by X. The project leverages cutting-edge technologies to provide a seamless and visually appealing user experience.
+This e-portfolio project is a comprehensive showcase of my projects, style, skills, and experience. It is designed, developed, and maintained by Tevin Gathemia Gatheru. The project leverages cutting-edge technologies to provide a seamless and visually appealing user experience.
 
 ## Overview
 
