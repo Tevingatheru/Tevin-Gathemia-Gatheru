@@ -16,11 +16,6 @@ The e-portfolio is built with a focus on modern web development practices, ensur
 
 The project is structured in a modular way, with each section of the e-portfolio (e.g., projects, skills, experience) being a separate module. This structure allows for easy updates and maintenance.
 
-## Acknowledgments
-
-- Special thanks to the Angular, TailwindCSS, and P5.js communities for their support and resources.
-- Inspiration and design ideas from various portfolio templates and resources.
-
 ## Getting Started
 
 Please note that this repository contains only the build files of the e-portfolio project. The source code and the actual Angular project are not included. To view or contribute to the project, you will need access to the original Angular project repository.
@@ -32,3 +27,8 @@ If you are interested in viewing the e-portfolio, you can follow these steps:
 3. **Access the e-Portfolio**: Open your web browser and navigate to `http://localhost:8080` (or the port specified by your server) to view the e-portfolio.
 
 For those interested in contributing to the project or accessing the source code, please contact the project maintainer.
+
+## Acknowledgments
+
+- Special thanks to the Angular, TailwindCSS, and P5.js communities for their support and resources.
+- Inspiration and design ideas from various portfolio templates and resources.
