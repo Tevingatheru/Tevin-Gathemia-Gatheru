@@ -8,9 +8,9 @@ The e-portfolio is built with a focus on modern web development practices, ensur
 
 ## Technologies Used
 
-- **Angular**: A powerful framework for building web applications. It provides a robust structure for developing single-page applications and is used for the core functionality of the e-portfolio. [Angular](https://angular.dev/)
-- **TailwindCSS**: A utility-first CSS framework that enables rapid UI development. It is used for styling the e-portfolio, ensuring that it is responsive and visually appealing across different devices. [TailwindCSS](https://tailwindcss.com/)
-- **P5.js**: A JavaScript library that makes coding accessible for artists, designers, educators, and beginners. It is used for creating interactive and dynamic elements within the e-portfolio. [P5](https://p5js.org/)
+- [Angular](https://angular.dev/): A powerful framework for building web applications. It provides a robust structure for developing single-page applications and is used for the core functionality of the e-portfolio. 
+- [TailwindCSS](https://tailwindcss.com/): A utility-first CSS framework that enables rapid UI development. It is used for styling the e-portfolio, ensuring that it is responsive and visually appealing across different devices. 
+- [P5](https://p5js.org/): A JavaScript library that makes coding accessible for artists, designers, educators, and beginners. It is used for creating interactive and dynamic elements within the e-portfolio.
 
 ## Project Structure
 
@@ -23,7 +23,9 @@ Please note that this repository contains only the build files of the e-portfoli
 If you are interested in viewing the e-portfolio, you can follow these steps:
 
 1. **Clone the Build Repository**: Use `git clone` to clone this repository to your local machine. This will download the build files necessary to run the e-portfolio.
-2. **Serve the Build**: Since this repository contains only the build files, you will need to serve them using a web server. You can use any static file server for this purpose. For example, if you have Node.js installed, you can use the `http-server` package. Install it globally with `npm install -g http-server`, navigate to the cloned repository's directory, and run `http-server` to serve the files.
+2. **Serve the Build**: Since this repository contains only the build files, you will need to serve them using a web server. You can use any static file server for this purpose. For example, if you have 
+   1. Node.js installed, you can use the `http-server` package. Install it globally with `npm install -g http-server`, navigate to the cloned repository's directory, and run `http-server` to serve the files.
+   2. PHP installed, you can use `php -S localhost:8000` to start a local server.
 3. **Access the e-Portfolio**: Open your web browser and navigate to `http://localhost:8080` (or the port specified by your server) to view the e-portfolio.
 
 For those interested in contributing to the project or accessing the source code, please contact the project maintainer.
